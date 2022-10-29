@@ -1,0 +1,38 @@
+{
+  "name": "@franzzemen/deep-freeze",
+  "version": "1.0.0",
+  "description": "Deep Freeze supporting Map, Sets, cyclical behavior and custom objects",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranzZemen/deep-freeze.git"
+  },
+  "keywords": [
+    "freeze",
+    "deep freeze",
+    "deepfreeze"
+  ],
+  "author": "Franz Zemen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FranzZemen/deep-freeze/issues"
+  },
+  "homepage": "https://github.com/FranzZemen/deep-freeze#readme",
+  "devDependencies": {
+    "@franzzemen/gulp-base": "^12.0.4",
+    "@franzzemen/npmu": "^2.0.16",
+    "@franzzemen/test": "1.0.3",
+    "@types/chai": "^4.3.3",
+    "@types/mocha": "^10.0.0",
+    "chai": "^4.3.6",
+    "gulp": "^4.0.2",
+    "gulp-mocha": "^8.0.0",
+    "mocha": "^10.1.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {}
+}
