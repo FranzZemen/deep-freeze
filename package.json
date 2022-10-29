@@ -1,6 +1,6 @@
 {
   "name": "@franzzemen/deep-freeze",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Deep Freeze supporting Map, Sets, cyclical behavior and custom objects",
   "type": "module",
   "main": "index.js",
