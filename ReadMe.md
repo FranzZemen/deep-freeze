@@ -8,7 +8,9 @@ npm i @franzzemen/deep-freeze
 
 # Usage
 
-## ECMAScript
+This package is published for an ECMAScript module loader.  For CommonJS see below.
+
+### ECMAScript
 
     import {deepFreeze} from '@franzzemen/deep-freeze';
     const object = {};
